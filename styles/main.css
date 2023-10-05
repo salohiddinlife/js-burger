@@ -189,6 +189,7 @@ ol {
     background: var(--white);
     padding: 16px;
     height: 100%;
+    z-index: 99;
 }
 
 .wrapper__navbar-product {
